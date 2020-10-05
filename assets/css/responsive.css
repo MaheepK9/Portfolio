@@ -399,7 +399,7 @@
 	.site-footer .col-xs-12 {
 		text-align: center;
 	}
-}
+
 
 /* Extra Small Devices, Phones */ 
 @media only screen and (max-width : 479px) {
@@ -435,7 +435,7 @@
 
 	.portfolio-item,
 	.section-portfolio .col-md-4:nth-last-child(-n+3) .portfolio-item {
-		margin-bottom: 0px; 
+		margin-bottom: 30px; 
 	}
 
 	.section-portfolio .btn {
@@ -461,4 +461,3 @@
 	.site-footer .col-xs-offset-3 {
 		margin-left: 0;
 	}
-}
