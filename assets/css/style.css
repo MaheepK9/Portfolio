@@ -1,5 +1,7 @@
 
  
+
+ 
 /* FONT
 ================================================== */
 @font-face {
@@ -198,16 +200,16 @@ html, body {
 }
 
 .nav > li > a:focus {
-    background-color: transparent;
+    background-color: white;
 }
 
 /* HERO
 ================================================== */
 .hero { 
-    background: url(../img/hero1.jpg) no-repeat center / cover; 
+    background: url(../img/5333978.jpg) no-repeat center / cover; 
     height: 100%;
     width: 100%;
-    min-height: 700px;
+    min-height: 900px;
 
 }
 
@@ -487,7 +489,7 @@ html, body {
 
 /* Section: Counters */
 .section-counters {
-    background: url(../img/Portfolio-6.png) no-repeat fixed center / cover;
+    background: url(../img/Portfolio-6.jpg) no-repeat fixed center / cover;
     width: 100%;
     padding: 100px 0;
     position: relative;
@@ -528,11 +530,11 @@ html, body {
 /* FOOTER
 ================================================== */
 .site-footer {
-    position: fixed;
+    position: bottom;
     bottom: 0;
-    padding: 30px 0;
+    padding: 25px 0;
     width: 100%;
-    background-color: #212121;
+    background-color: #3a3939;
     z-index: -1;
 }
 
